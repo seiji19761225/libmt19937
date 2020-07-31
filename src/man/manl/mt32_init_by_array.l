@@ -1,0 +1,1 @@
+../mt32/mt32_init_by_array.l

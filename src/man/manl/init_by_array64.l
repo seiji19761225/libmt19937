@@ -1,0 +1,1 @@
+../mt64/init_by_array64.l
